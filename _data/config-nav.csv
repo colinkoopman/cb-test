@@ -3,7 +3,7 @@ Home,/,
 Browse,/browse.html,
 Subjects,/subjects.html,
 GeoData,,
-Locations,locations.html,GeoData
+Locations,/locations.html,GeoData
 Map,/map.html,GeoData
 Timeline,/timeline.html,
 Data,/data.html,
